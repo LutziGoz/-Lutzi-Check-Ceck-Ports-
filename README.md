@@ -12,4 +12,4 @@ need to be a patient - the LutziPort test takes between one and two minutes afte
 Screenshot Below:
 
 
-![check gui port](https://user-images.githubusercontent.com/45577616/115681612-606d6480-a35d-11eb-9524-606af972f9a9.png)
+![LutziPortPic](https://user-images.githubusercontent.com/45577616/123691888-6ea49900-d856-11eb-88ec-21167a409f79.png)
