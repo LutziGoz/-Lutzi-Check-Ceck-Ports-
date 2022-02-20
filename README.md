@@ -1,6 +1,6 @@
-## This page was created for sharing software developed by LutziGoz, Especially on systems and network testing software
+## This page was created for sharing software developed by LutziGoz, Especially on systems and network testing softwareץ.
 
-## -Lutzi-Check-Ports-
+## -Lutzi-Check-Ports-:
 
 ### This Software Designed for Penetration Testers &amp; Malware Analysis Researchers - support and help to check what is a ports opened on the PC/Server. hope you found this is ### relevant for you (compiled from python to exe by pyinstaller &amp; NSIS)
 
