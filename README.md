@@ -1,6 +1,6 @@
 ## -Lutzi-Check-Ports-:
 
-### This Software Designed for Penetration Testers &amp; Malware Analysis Researchers - support and help to check what is a ports opened on the PC/Server. hope you found this is ### relevant for you (compiled from python to exe by pyinstaller &amp; NSIS)
+### announce on the software designed  for Penetration Testers &amp; Malware Analysis Researchers - support and help to check what is a ports opened on the PC/Server. hope you found this is ### relevant for you (compiled from python to exe by pyinstaller &amp; NSIS)
 
 
 LutziPort.exe installer will be extract 2 Folders 
